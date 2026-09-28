@@ -2,7 +2,7 @@
 
 Analysis of 5,000 tech job postings (Kaggle dataset) using Python, SQL and Streamlit.
 
-**Live dashboard:** https://YOUR-APP.streamlit.app
+**Live dashboard:** [https://india-job-market-analysis-fcecrnxn842fymua2rsgmg.streamlit.app/]
 
 ## Key findings
 - Median pay rises steeply with experience: about 5.5 LPA average for freshers to 53 LPA for leads.
